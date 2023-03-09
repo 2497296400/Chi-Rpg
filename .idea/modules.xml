@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guide-rpc-framework-master/example-client/example-client.iml" filepath="$PROJECT_DIR$/guide-rpc-framework-master/example-client/example-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide-rpc-framework-master/example-server/example-server.iml" filepath="$PROJECT_DIR$/guide-rpc-framework-master/example-server/example-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide-rpc-framework-master/guide-rpc-framework.iml" filepath="$PROJECT_DIR$/guide-rpc-framework-master/guide-rpc-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/guide-rpc-framework-master.iml" filepath="$PROJECT_DIR$/.idea/guide-rpc-framework-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide-rpc-framework-master/hello-service-api/hello-service-api.iml" filepath="$PROJECT_DIR$/guide-rpc-framework-master/hello-service-api/hello-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide-rpc-framework-master/rpc-framework-common/rpc-framework-common.iml" filepath="$PROJECT_DIR$/guide-rpc-framework-master/rpc-framework-common/rpc-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide-rpc-framework-master/rpc-framework-simple/rpc-framework-simple.iml" filepath="$PROJECT_DIR$/guide-rpc-framework-master/rpc-framework-simple/rpc-framework-simple.iml" />
+    </modules>
+  </component>
+</project>
